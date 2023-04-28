@@ -2,7 +2,7 @@
 
 Este repositório contém implementações em C++ de várias estruturas de dados comuns. As implementações são fornecidas para fins educacionais e podem ser usadas como referência para estudos ou como base para projetos pessoais.
 
-## As estruturas de dados estão listadas abaixo em ordem crescente de complexidade:
+####  As estruturas de dados estão listadas abaixo em ordem crescente de complexidade:
 
 - Vector
 - Linked List
